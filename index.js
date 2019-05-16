@@ -42,7 +42,9 @@ mixin(CorpAPI, require('./lib/corp_tag'))
 // 异步任务
 mixin(CorpAPI, require('./lib/corp_batch'))
 // 客户
-mixin(CorpAPI, require('./lib/corp_customer'))
+mixin(CorpAPI, require('./lib/corp_crm'))
+// 消息
+mixin(CorpAPI, require('./lib/corp_message'))
 
 /* 微信企业套件 */
 // 第三方应用
