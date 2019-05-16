@@ -1,6 +1,6 @@
 {
   "name": "co-wxwork-api",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "企业微信Node库API，ES6版本",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:slevp/co-wxwork-api.git"
+    "url": "git@github.com:liwenyue/co-wxwork-api.git"
   },
   "keywords": [
     "weixin",
