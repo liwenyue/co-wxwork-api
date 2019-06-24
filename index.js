@@ -45,6 +45,10 @@ mixin(CorpAPI, require('./lib/corp_batch'))
 mixin(CorpAPI, require('./lib/corp_crm'))
 // 消息
 mixin(CorpAPI, require('./lib/corp_message'))
+// 素材
+mixin(CorpAPI, require('./lib/api_media'))
+// 永久素材
+mixin(CorpAPI, require('./lib/api_material'))
 
 /* 微信企业套件 */
 // 第三方应用
